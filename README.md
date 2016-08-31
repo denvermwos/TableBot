@@ -17,3 +17,14 @@ Bot Commands:
         * this will rotate the robot 90 degrees in the specified direction without changing the position of the robot.
   * REPORT
         * this will announce the X,Y and F of the robot.
+ 
+Installation:
+  * Download repository as zip.
+  * Unzip contents into a folder, preferably c:\inetpub
+  * Open IIS Manager
+  * Right click on "Sites" and then click on "Add website..."
+  * Enter any site name eg. TableBot
+  * Enter a unused port.
+  * Select Physical path (this is the repository folder wherever you saved it on your hard drive).
+  * Select ok and then start website.
+  
