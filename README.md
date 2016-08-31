@@ -27,4 +27,5 @@ Installation:
   * Enter a unused port.
   * Select Physical path (this is the repository folder wherever you saved it on your hard drive).
   * Select ok and then start website.
+  * Right click on site and select "Manage Website" then "Browse".
   
